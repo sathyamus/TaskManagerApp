@@ -1,0 +1,37 @@
+# Eclipse project files
+.settings/
+test-output/
+
+# IntelliJ project files
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Mac
+.DS_Store
+
+# Others
+Temp/
+obj/
+classes/
+generated/
+bin/
+* Out*
+* out*
+*.ldb
+_ReSharper*/
+*.eml
+out/
+*.user
+*.resx
+nbproject/
+target/
+build/
+build.xml
+Thumbs.db
+manifest.mf
+Out/
+Out*/
+*.lic
+Data/*Out*
